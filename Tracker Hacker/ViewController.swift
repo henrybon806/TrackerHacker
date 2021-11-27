@@ -15,6 +15,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var map: MKMapView!
     @IBOutlet weak var pageControl: UIPageControl!
     
+    //hello
+    
     fileprivate let locationManager:CLLocationManager = CLLocationManager()
     
     override func viewDidLoad() {
