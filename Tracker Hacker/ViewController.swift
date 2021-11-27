@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var map: MKMapView!
     @IBOutlet weak var pageControl: UIPageControl!
     
-    //hello
+    //hell
     
     fileprivate let locationManager:CLLocationManager = CLLocationManager()
     
